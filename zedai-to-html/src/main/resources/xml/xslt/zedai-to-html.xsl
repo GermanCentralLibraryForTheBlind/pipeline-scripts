@@ -1,4 +1,4 @@
-test<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"
   xmlns:f="http://www.daisy.org/ns/functions-internal" xmlns:its="http://www.w3.org/2005/11/its"
   xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tts="http://www.daisy.org/ns/pipeline/tts"
